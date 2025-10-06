@@ -1,3 +1,7 @@
 when i was middle
 
-i played for fun. made up the words nobody eaed nbujj ahsudhiacb uhu8diwb 	iiiiiii
+<<<<<<< HEAD
+i played for fun. made up the words nobody eaed nbujj ahsudhiacb uhu8diwb 	
+=======
+i played fun. made up the words nobody eaed nbujj ahsudhiacb uhu8diwb 	hduwhud wbdjwhdiwu 
+>>>>>>> duplicate
